@@ -2,7 +2,6 @@
   "name": "tj-garden-hotel",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://coiper.github.io/tj-garden-hotel/",
   "type": "module",
   "scripts": {
     "dev": "vite",
